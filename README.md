@@ -23,3 +23,5 @@ new LifeBuilder()
   .withWife()
   .build()
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelkieling&show_icons=true&theme=dark)
