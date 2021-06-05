@@ -25,3 +25,4 @@ new LifeBuilder()
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelkieling&show_icons=true&theme=dark)
+<img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsTDAzQ0o4MWNmVWpWaTBJdjlEaUxHNTlUOHdabzN2byIsCiAgImV2ZW50IjogIkdpdGh1YiBPcGVuZWQiCn0=">
