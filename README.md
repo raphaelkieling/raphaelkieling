@@ -8,19 +8,20 @@ const me = {
   from: "Brazil",
   currentLevel: "Tech Lead",
   social: [
-    "https://www.linkedin.com/in/raphael-kieling/",
-    "https://kieling.netlify.app/"
+    "https://www.linkedin.com/in/raphael-kieling/"
   ],
   currentJob: {
-    name: "DX.CO",
+    name: "Thoughtworks",
   }
 }
 
 new LifeBuilder()
   .withMe(me)
   .withCoffe()
-  .withPet({ type: 'cat', quantity: 2 })
+  .withPet({ type: 'cat', quantity: 1 })
+  .withPet({ type: 'dog', quantity: 1 })
   .withWife()
+  .withGames({ type: '*' })
   .build()
 ```
 
