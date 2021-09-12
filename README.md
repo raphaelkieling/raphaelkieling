@@ -6,7 +6,7 @@ const me = {
   birthday: "1998-05-01T12:30:00",
   timezone: -3,
   from: "Brazil",
-  currentLevel: "Tech Lead",
+  currentLevel: "Senior",
   social: [
     "https://www.linkedin.com/in/raphael-kieling/"
   ],
