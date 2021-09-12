@@ -1,28 +1,21 @@
 ```js
-const me = {
-  name: "Raphael Kieling",
-  type: "me",
-  age: 23,
-  birthday: "1998-05-01T12:30:00",
-  timezone: -3,
-  from: "Brazil",
-  currentLevel: "Senior",
-  social: [
-    "https://www.linkedin.com/in/raphael-kieling/"
-  ],
-  currentJob: {
-    name: "Thoughtworks",
+// Golang version
+me := entity.Person{
+  Name: "Raphael Kieling",
+  Type: "me",
+  Age: 23,
+  Birthday: "1998-05-01T12:30:00",
+  Timezone: -3,
+  From: "Brazil",
+  CurrentLevel: "Senior",
+  CurrentJob: "Thoughtworks"
+  CurrentStudy: "Golang",
+  Social: []entity.Social{
+    entity.Social{
+      Name: "https://www.linkedin.com/in/raphael-kieling/"
+    }
   }
 }
-
-new LifeBuilder()
-  .withMe(me)
-  .withCoffe()
-  .withPet({ type: 'cat', quantity: 1 })
-  .withPet({ type: 'dog', quantity: 1 })
-  .withWife()
-  .withGames({ type: '*' })
-  .build()
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelkieling&show_icons=true&theme=dark)
