@@ -8,7 +8,7 @@ me := entity.Person{
   Timezone: -3,
   From: "Brazil",
   Level: "Senior",
-  Job: "Thoughtworks"
+  Job: "Thoughtworks",
   CurrentStudy: "Architecture",
   Social: []entity.Social{
     entity.Social{
