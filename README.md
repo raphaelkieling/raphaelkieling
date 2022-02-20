@@ -3,13 +3,13 @@
 me := entity.Person{
   Name: "Raphael Kieling",
   Type: "me",
-  Age: 23,
+  Age: 23, //Almost 24
   Birthday: "1998-05-01T12:30:00",
   Timezone: -3,
   From: "Brazil",
-  CurrentLevel: "Senior",
-  CurrentJob: "Thoughtworks"
-  CurrentStudy: "Golang",
+  Level: "Senior",
+  Job: "Thoughtworks"
+  CurrentStudy: "Architecture",
   Social: []entity.Social{
     entity.Social{
       Name: "https://www.linkedin.com/in/raphael-kieling/"
@@ -17,6 +17,8 @@ me := entity.Person{
   }
 }
 ```
+
+I'm a Senior developer at Thoughtworks.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelkieling&show_icons=true&theme=dark)
 
