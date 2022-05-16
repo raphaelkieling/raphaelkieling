@@ -7,7 +7,7 @@ me := entity.Person{
   From: "Brazil",
   Level: "Senior",
   Job: "Thoughtworks",
-  CurrentStudy: "Architecture",
+  CurrentStudy: "DDD",
   Social: []entity.Social{
     entity.Social{
       Name: "https://www.linkedin.com/in/raphael-kieling/"
