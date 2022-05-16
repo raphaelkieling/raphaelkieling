@@ -4,7 +4,6 @@ me := entity.Person{
   Name: "Raphael Kieling",
   Age:24,
   Birthday: "1998-05-01T12:30:00",
-  Timezone: -3,
   From: "Brazil",
   Level: "Senior",
   Job: "Thoughtworks",
