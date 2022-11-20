@@ -8,12 +8,13 @@ Hi there 👋🏾 welcome to my Github! I'm Raphael Kieling from Brasil, current
   <img width="250" src="https://media.giphy.com/media/2sgfR9c3gAUoqvVKYC/giphy.gif">
 </p>
 
+
+<p align="center">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=raphael.kieling"/>
+</p>
+
 <p align="center">
   <samp>
     Check out my repos ⬇️
   </samp>
-</p>
-
-<p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=raphael.kieling"/>
 </p>
