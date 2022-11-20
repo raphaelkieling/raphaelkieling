@@ -1,6 +1,6 @@
 
 <p align="center" >
-Hi there 👋🏾 welcome to my Github! I'm Raphael Kieling from Brasil, currently as a tech lead at <a href="https://www.thoughtworks.com/">thoughtworks</a>.
+Hi there 👋🏾 welcome to my Github! I'm Raphael Kieling from Brasil, currently working as a tech lead at <a href="https://www.thoughtworks.com/">thoughtworks</a>.
 </p>
 
 
