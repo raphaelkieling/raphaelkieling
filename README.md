@@ -5,7 +5,7 @@ Hi there 👋🏾 welcome to my Github! I'm Raphael Kieling from Brasil, current
 
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/2sgfR9c3gAUoqvVKYC/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/3kD7E1VypMvRC2YabG/giphy.gif">
 </p>
 
 
