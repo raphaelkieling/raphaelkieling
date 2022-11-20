@@ -1,23 +1,4 @@
-```js
-// Golang version
-me := entity.Person{
-  Name: "Raphael Kieling",
-  Age:24,
-  Birthday: "1998-05-01T12:30:00",
-  From: "Brazil",
-  Level: "Senior",
-  Job: "Thoughtworks",
-  CurrentStudy: "DDD",
-  Social: []entity.Social{
-    entity.Social{
-      Name: "https://www.linkedin.com/in/raphael-kieling/"
-    }
-  }
-}
-```
+I'm Raphael Kieling, welcome! 😄
 
-I'm a Senior developer at Thoughtworks.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelkieling&show_icons=true&theme=dark)
-
-<img src="https://api.segment.io/v1/pixel/track?data=e1wid3JpdGVLZXlcIjpcImxMMDNDSjgxY2ZValZpMEl2OURpTEc1OVQ4d1pvM3ZvXCIsXCJ1c2VySWRcIjpcInVzZXJfMTIzXCIsXCJldmVudFwiOlwiRW1haWwgT3BlbmVkXCIsXCJwcm9wZXJ0aWVzXCI6e1wic3ViamVjdFwiOlwiVGhlIEVsZWN0cmljIERhaWx5XCIsXCJlbWFpbFwiOlwiamFuZS5raW1AZXhhbXBsZS5jb21cIn19">
+![Metrics](https://metrics.lecoq.io/raphaelkieling?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
