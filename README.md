@@ -8,10 +8,6 @@ Welcome to my Github! I'm Raphael Kieling from Brasil, currently working as a te
 </p>
 
 <p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=raphaelkieling.raphaelkieling"/>
-</p>
-
-<p align="center">
   <samp>
     Check out my repositories ⬇️
   </samp>
